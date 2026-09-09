@@ -5,6 +5,6 @@
 
 - 登录GitHub并创建仓库
 
-- 学习git clone的用法
+- 学习git clone的用法，将GitHub文件保存到本地
 
--学习note提交
+- 学习note提交
