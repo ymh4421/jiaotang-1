@@ -1,4 +1,4 @@
-# jotang-recruit-2026
+# jiaotang-recruit-2026
 这个仓库用于焦糖工作室 2026 年招新任务。
 
 ## 仓库用途
